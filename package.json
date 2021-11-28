@@ -1,0 +1,32 @@
+{
+  "name": "create-instant-meilisearch",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "Charlotte Vermandel",
+  "bin": {
+    "create-instant-meilisearch": "index.js",
+    "cim": "index.js"
+  },
+  "files": [
+    "index.js",
+    "template-*"
+  ],
+  "main": "index.js",
+  "scripts": {},
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bidoubiwa/create-instant-meilisearch"
+  },
+  "bugs": {
+    "url": "https://github.com/bidoubiwa/create-instant-meilisearch/issues"
+  },
+  "homepage": "https://github.com/bidoubiwa/create-instant-meilisearch",
+  "dependencies": {
+    "kolorist": "^1.5.0",
+    "minimist": "^1.2.5",
+    "prompts": "^2.4.2"
+  }
+}

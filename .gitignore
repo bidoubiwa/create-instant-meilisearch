@@ -102,3 +102,16 @@ dist
 
 # TernJS port file
 .tern-port
+
+template-lit
+template-lit-ts
+template-preact
+template-preact-ts
+template-svelte
+template-svelte-ts
+template-vanilla
+template-vanilla-ts
+template-vue
+template-vue-ts
+template-react-ts
+__tests__
