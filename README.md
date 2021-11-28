@@ -25,18 +25,18 @@ npx create-instant-meilisearch --template vue
 
 Currently supported template presets include:
 
-- [ ]`vanilla`
-- [ ]`vanilla-ts`
-- [ ]`vue`
-- [ ]`vue-ts`
-- [x]`react`
-- [ ]`react-ts`
-- [ ]`preact`
-- [ ]`preact-ts`
-- [ ]`lit`
-- [ ]`lit-ts`
-- [ ]`svelte`
-- [ ]`svelte-ts`
+- [ ] `vanilla`
+- [ ] `vanilla-ts`
+- [ ] `vue`
+- [ ] `vue-ts`
+- [x] `react`
+- [ ] `react-ts`
+- [ ] `preact`
+- [ ] `preact-ts`
+- [ ] `lit`
+- [ ] `lit-ts`
+- [ ] `svelte`
+- [ ] `svelte-ts`
 
 ## Community Templates
 
