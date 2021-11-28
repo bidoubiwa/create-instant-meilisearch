@@ -9,7 +9,7 @@
   },
   "files": [
     "index.js",
-    "template-*"
+    "template-react"
   ],
   "main": "index.js",
   "scripts": {},
