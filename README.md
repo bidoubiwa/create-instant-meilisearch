@@ -20,7 +20,7 @@ Then follow the prompts!
 You can also directly specify the project name and the template you want to use via additional command line options. For example, to scaffold a Vite + Vue project, run:
 
 ```bash
-npx create-instant-meilisearch --template vue
+npx create-instant-meilisearch --template react
 ```
 
 Currently supported template presets include:

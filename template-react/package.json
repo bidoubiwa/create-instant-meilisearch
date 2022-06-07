@@ -7,11 +7,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@meilisearch/instant-meilisearch": "0.7.0",
+    "instantsearch.css": "^7.4.5",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "instantsearch.css": "^7.4.5",
-    "react-instantsearch-dom": "^6.12.1",
-    "@meilisearch/instant-meilisearch": "^0.5.10"
+    "react-instantsearch-dom": "^6.27.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^1.0.7",
